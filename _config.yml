@@ -1,9 +1,16 @@
-title: Zeina Roz # your name (or website title) here
+title: Kersey Lachica # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  Hi, I'm Kersey! 
+  <br><br>
+  I'm currently a Production Chemist at a biotech company. Over the past year, I've discovered a passion for data analytics and am actively working to develop 
+  the necessary skills to transition into this field. I've been dedicated to learning and applying data analytics techniques and I am continuously working on projects 
+  to enhance my portfolio. I look forward to sharing my completed projects as I progress! 
+  <br><br>
+  Skills:
+  SQL, Excel, Tableau
+  <br><br>
+  <a href="https://www.linkedin.com/in/kerseylachica/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
