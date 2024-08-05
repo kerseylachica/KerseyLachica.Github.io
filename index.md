@@ -4,41 +4,14 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### [DoorDash Project with Excel](https://www.linkedin.com/pulse/doordash-project-using-microsoft-excel-kersey-lachica-pgrzc/)
+[<img src="doordash.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-project-using-microsoft-excel-kersey-lachica-pgrzc/)
+In this project, I used Excel for data analysis and data visualization to analyze 2018 iFood data and discovered insights on how customer demographics such as income, age, number of kids at gome, marital status, and educational background contribute to the total spending of these delivery service platforms. 
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+#### [Massachusetts Education Project with Tableau](https://www.loom.com/share/2ee97c208ec2404ba3e667739821db27)
+[<img src="images/massachusettseducation.png?raw=true"/>](https://www.loom.com/share/2ee97c208ec2404ba3e667739821db27)
+In this project, I was tasked as a recent hire to analyze the Massachusetts Education data using Tableau. I created a dashboard to display and illustrate how class sizes affect college admission, the top math schoools in the state based on the 4th grade MCAS Math reports, and schools that were struggling the most across 1800 schools and almost 1 million students.
 
 
 
