@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [DoorDash Project with Excel](https://www.linkedin.com/pulse/doordash-project-using-microsoft-excel-kersey-lachica-pgrzc/)
-[<img src="doordash.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-project-using-microsoft-excel-kersey-lachica-pgrzc/)
+[<img src="images/doordash.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-project-using-microsoft-excel-kersey-lachica-pgrzc/)
 In this project, I used Excel for data analysis and data visualization to analyze 2018 iFood data and discovered insights on how customer demographics such as income, age, number of kids at gome, marital status, and educational background contribute to the total spending of these delivery service platforms. 
 
 ---
