@@ -4,6 +4,10 @@
 
 ### Learn About My Projects
 
+#### [NBA Analytics with Tableau](https://www.linkedin.com/pulse/nba-analytics-tableau-kersey-lachica-nckcc/)
+[<img src="images/nba thumbnail.png?raw=true"/>](https://www.linkedin.com/pulse/nba-analytics-tableau-kersey-lachica-nckcc/)
+In this project, I used Tableau to create 4 charts to analyze 2022-2023 NBA stats. The four charts include a heatmap, bubble plot, stacked bar, and a treemap containing factors such as teams, players, positions, and scoring system that evaluated 3-point shooting efficiency, total points scored by team and player, and total assists.
+
 #### [Healthcare Project with SQL](https://www.linkedin.com/pulse/uncovering-racial-disparities-hospitalization-trends-analysis-kersey-ged4c/)
 [<img src="images/healthcare thumbnail.png?raw=true"/>](https://www.linkedin.com/pulse/uncovering-racial-disparities-hospitalization-trends-analysis-kersey-ged4c/)
 In this project, I used SQL to uncover potential racial disparities by looking into the number of lab procedures and medications. I also analyzed hospitalization trends such as the relationship between lab procedures and time spent in hospital, lab procedures and medical specialty, successful patient treatments, and distribution of patient stay at the hospital.
