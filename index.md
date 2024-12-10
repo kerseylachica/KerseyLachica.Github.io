@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Exploring the (Data) World of Iron Production with Python](https://www.linkedin.com/pulse/data-world-iron-production-w-python-kersey-lachica-jahlc/)
-[<img src="images/iron thumbnail.png?raw=true"/>](https://www.linkedin.com/pulse/data-world-iron-production-w-python-kersey-lachica-jahlc/)
+[<img src="images/iron_thumbnail.png?raw=true"/>](https://www.linkedin.com/pulse/data-world-iron-production-w-python-kersey-lachica-jahlc/)
 In this project, I used Python to analyze a flotation plant, Metals R Us, and investigate a weird occurrence on June 1, 2017 regarding their iron flotation process. With 737,453 rows and 24 columns, the iron attributes highlighted in this article were the % iron concentrate (our target end product), % silica concentrate (an impurity), ore pulp pH, and flotation column 05 level. Pairplots were used to illustrate the correlation between the four variables. A lineplot was used to illustrate the % iron concentrate fluctuations throughout the day specified. 
 
 ---
