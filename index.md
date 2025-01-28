@@ -3,9 +3,14 @@
 ---
 
 ### Learn About My Projects
+#### [How Reliable are LSTM Models in Predicting Tesla's Stock?](https://www.linkedin.com/pulse/how-reliable-lstm-models-predicting-teslas-stock-kersey-lachica-nzxgc/)
+[<img src="images/tesla.png?raw=true"/>](https://www.linkedin.com/pulse/how-reliable-lstm-models-predicting-teslas-stock-kersey-lachica-nzxgc/)
+In my capstone project, I utilized Python to develop an LSTM model designed to forecast a 30-day period beyond the existing dataset - from December 17, 2024 to January, 15, 2025. I used SQL to evaluate the accuracy of the forecast. The percent error was calculated between the predicted and actual stock values for this 30-day interval as well as the average percent error categorized by month, providing a more nuanced understanding of the model's perforamnce over time.
+
+---
 #### [HR Analysis with R](https://www.linkedin.com/pulse/hr-analysis-r-kersey-lachica-ew9hc/)
 [<img src="images/hr_thumbnail.png?raw=true"/>](https://www.linkedin.com/pulse/hr-analysis-r-kersey-lachica-ew9hc/)
-In this project, I used R to find the correlation between employees and their attributes such as monthly income, age, and total working years to investigate the reason for layoffs assuming the employees voluntarily left the company.
+In this project, I utilized R to analyze the correlation between employee attributes - such as monthly income, age, and total working years - to explore potential factors contributing to layoffs, under the assumption that employees voluntarily left the company.
 
 ---
 #### [Exploring the (Data) World of Iron Production with Python](https://www.linkedin.com/pulse/data-world-iron-production-w-python-kersey-lachica-jahlc/)
